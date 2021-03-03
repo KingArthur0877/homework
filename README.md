@@ -36,5 +36,4 @@ code .
 
 ### After Refactor 
 
-TODO
-
+![image after refactor](./assets/images/website-after-refactoring.png "website after refractor")
