@@ -2,7 +2,7 @@
 
 ## Project Link
 
-Click [here](TODO) to view my project.
+Click [here](https://kingarthur0877.github.io/homework-week1/.) to view my project.
 
 ## Description
 
